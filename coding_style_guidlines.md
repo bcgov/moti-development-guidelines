@@ -39,8 +39,10 @@ All code committed in repositories must be licensed under the Apache License, Ve
 
 ## Development Environment
 
+### Branching Strategy
+- [Branching strategy: a path to greatness](https://www.atlassian.com/agile/software-development/branching)
 ### Git
-Git branch work flow:
+Git branch work flow example:
 ![Alt text here](images/git_branch_work_flow.png)
 - [Git & GitHub made Simple Branching and PR](https://dev.to/didof/git-github-made-simple-branching-and-pr-37l9)
 - [Git Style Guide](https://github.com/agis/git-style-guide)
