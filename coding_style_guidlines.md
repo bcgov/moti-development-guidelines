@@ -41,6 +41,7 @@ All code committed in repositories must be licensed under the Apache License, Ve
 
 ### Branching Strategy
 - [Branching strategy: a path to greatness](https://www.atlassian.com/agile/software-development/branching)
+- [Subversion in Action]([https://www.atlassian.com/agile/software-development/branching](https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-basics-svn.html))
 ### Git
 Git branch work flow example:
 ![Alt text here](images/git_branch_work_flow.png)
